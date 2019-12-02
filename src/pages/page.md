@@ -1,0 +1,5 @@
+---
+title: page
+template: page
+---
+
